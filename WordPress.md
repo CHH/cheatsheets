@@ -12,6 +12,10 @@
 
 * [Advanced Custom Fields Pro](https://www.advancedcustomfields.com/pro/)
 
+## SEO
+
+* [All in One SEO Pack](https://fuc.wordpress.org/plugins/all-in-one-seo-pack/)
+
 ## Utilities
 
 * [Soil](https://roots.io/plugins/soil/): Cleans up WordPress’ header tags
